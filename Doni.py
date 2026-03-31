@@ -1,1 +1,1 @@
-print ("TESTE do teste do teste do teste")
+print('hello word')
